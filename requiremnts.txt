@@ -11,7 +11,7 @@ langserve
 sse_starlette
 bs4
 langchain_huggingface
-sentence-transformer
+sentence-transformers
 transformers
 huggingface_hub
 pypdf
